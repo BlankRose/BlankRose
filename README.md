@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**BlankRose/BlankRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+	<!-- INTRODUCTION -->
+	<div>
+		<h1 align = 'center'>
+			🌸 <b>BlankRose</b> 🌸 <br>
+			<i style='font-size:120%;'>Welcome to my profile!</i>
+		</h1>
+	</div>
+	<!-- ABOUT ME -->
+	<div>
+		<p>
+			Hai, I'm just another developer like many others, going by the name of Rosie.
+			<br><br>
+			I have been learning to become a professional software engineer at "42" school since February 2022. My development journey didn't start here, as I've also worked on projects of various sizes for years as a passionate.
+			<br><br>
+			I mainly work with C, C++, Python, and Java languages. While I'm not particularly fond of web development, I'm always open to discovering all new technologies in other fields.
+			<br><br>
+			Most of the projects are defined as private but feel free to check out the few public repositories.
+		</p>
+	</div>
+</div>
